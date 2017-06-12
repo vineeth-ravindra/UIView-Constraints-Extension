@@ -5,6 +5,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension UIView {
     func createViewDict(views: [UIView]) -> [String: UIView] {
